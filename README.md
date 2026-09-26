@@ -31,3 +31,5 @@ dashboard-style interface built in Streamlit.
 - **Per-Student Report** — total classes, present, absent, and attendance % for every student
 - **Filtered Attendance Log** — filter records by department, semester, date, and status
 - **CSV Export** — download either report for Excel
+
+- https://attendai-fayazali.streamlit.app/
